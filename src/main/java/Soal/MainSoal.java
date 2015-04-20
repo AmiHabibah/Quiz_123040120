@@ -13,6 +13,6 @@ public class MainSoal {
         soal soal=new soal();
         
         System.out.println("Perkalian : "+soal.perkalian(5, 5));
-        System.out.println("Penjumlahan"+soal.penjumlahan(5, 2000));
+      
     }
 }
