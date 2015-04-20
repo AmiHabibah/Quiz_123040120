@@ -30,4 +30,7 @@ public class soal {
     public int perkalian(int bilA, int bilB){
     return bilA*bilB;
 }
+    public int penjumlahan(int bilA, int bilB){
+        return bilA+bilB;
+    }
 }
